@@ -1,0 +1,13 @@
+{
+  "name": "streamer-snitch-bot",
+  "version": "1.0.0-alpha-1",
+  "description": "Modify a discord user's nickname when they are streaming.",
+  "main": "index.js",
+  "repository": "https://github.com/mannanster/streamer-snitch-bot.git",
+  "author": "Mohammed Mannan",
+  "license": "Apache 2",
+  "private": true,
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  }
+}
